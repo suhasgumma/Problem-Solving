@@ -9,7 +9,7 @@ try:
             ts = TS
             count = 0
             while(ts %2 == 0):
-                ts/=2
+                ts = ts//2
                 count+=1
             
             i = 2
@@ -21,5 +21,3 @@ try:
             print(answer)
 except:
     pass
-
-#1978243939781051

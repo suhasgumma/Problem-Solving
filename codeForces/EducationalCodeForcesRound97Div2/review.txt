@@ -1,0 +1,9 @@
+The Easiest question I could not solve
+
+B. Reverse Binary Strings
+
+Given a binary string with equal number of 1's and 0's....
+
+U can reverse any subsequence in one step.
+
+Find the minimum number of steps such that the string becomes alternating.
